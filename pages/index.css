@@ -113,7 +113,7 @@
   color: #6f6f6f;
 }
 
-.header__footer__paragraphs {
+.header__paragraphs {
   display: flex;
   flex-direction: column;
 }
