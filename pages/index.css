@@ -220,7 +220,8 @@
 }
 
 .reservation__label {
-  margin-bottom: 8px;
+  display: block;
+  margin: 0 0 8px;
   font-weight: 500;
 }
 
